@@ -95,7 +95,7 @@ const ShopContent: React.FC = () => {
 
           {/* Description */}
           <p className="mt-6 text-base sm:text-lg text-muted-foreground max-w-xl leading-relaxed">
-            Elevate your workspace setup with custom mechanical keyboards, immersive active noise-canceling headphones, and modern accessories built for developers and creators.
+           It is my ecommerce website, where you can find a wide range of premium audio gear, immersive active noise-canceling headphones, and modern accessories built for developers and creators.
           </p>
 
           {/* CTA Buttons */}
