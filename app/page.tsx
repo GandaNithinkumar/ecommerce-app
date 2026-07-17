@@ -125,7 +125,7 @@ const ShopContent: React.FC = () => {
         <div className="flex flex-col md:flex-row md:items-end justify-between gap-4 mb-8">
           <div>
             <h2 className="font-display text-2xl font-bold tracking-tight text-foreground">
-              The Product Lineup
+              The Look Premium Product Lineup
             </h2>
             <p className="mt-1 text-sm text-muted-foreground">
               Showing {sortedProducts.length} premium tech items
